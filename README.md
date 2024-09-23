@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
-<!--
-**Xtorm07/Xtorm07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 I'm a cybersecurity student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdnMXdoMHVpZ2tvMmg2ZnhicGlhazB0OHc3MzZnemllbm5zemszciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.gif" width="30">
 
 - 👨‍💻 I like Cybersecurity and technology
